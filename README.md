@@ -20,14 +20,16 @@
 
 *  [About](#about)
 
+* [Technologies Used](#technologies-used)
+
+* [Results of the Project](#results-of-the-project)
+
 *  [Installation](#installation)
 
 *  [Data Source](#data-source)
 
-*  [License](#license)
+*  [License](#license) 
 
-  
-  
 
 ## About
 
@@ -47,6 +49,51 @@
 
 >In **using-sklearn.ipynb** `sklearn` module is used the and machine learning techinques like `Cross Validation`, `Analyzing Learning Curve` and `Parameter Tunning` are used to train the model and then it is `evaluated` with the test data.
 
+## Technologies Used
+
+> [![](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/) is used as Programming Language.
+
+>  `Numpy` is used for the mathematical and data manipulation.
+
+>  `Pandas` is used to analysis and manipulation of data.
+
+> `Matplotlib` and `Seaborn` are used for data visualisation which helped in the analysis of data.
+
+> `Sciki-learn` is used for data preprocessing, creating machine learning model and evaluating it, thus creating a pipeline.
+
+> `Pipenv` is the virtual environment used for the project. `Jupyter Notebook` is used to for the entire data science and machine learning life cycle. 
+
+## Results of the Project
+
+> Results of `from-scratch.ipynb` and `using-sklearn.ipynb` are same i.e. the regression model built using sklearn module and the one built just using numpy gives the same results.
+
+#### Line Plot
+
+![Line Plot](https://github.com/AkashSDas/Predict-GDP-of-Canada/blob/master/project-results-images/line-plot.png)
+
+#### Correlation Matrix
+
+![Correlation Matrix](https://github.com/AkashSDas/Predict-GDP-of-Canada/blob/master/project-results-images/correlation-matrix.png)
+
+#### Cross Validation Score
+
+![Cross Validation Score](https://github.com/AkashSDas/Predict-GDP-of-Canada/blob/master/project-results-images/cross-validation-score.png)
+
+#### Learning Curve
+
+![Learning Curve](https://github.com/AkashSDas/Predict-GDP-of-Canada/blob/master/project-results-images/leraning-curve.png)
+
+#### Fitted Line
+
+![Fitted Line](https://github.com/AkashSDas/Predict-GDP-of-Canada/blob/master/project-results-images/fitted-line.png)
+
+####  Metrics Scores
+
+![Metrics Scores](https://github.com/AkashSDas/Predict-GDP-of-Canada/blob/master/project-results-images/metrics-scores.png)
+
+#### Actual VS Prediction
+
+![Metrics Scores](https://github.com/AkashSDas/Predict-GDP-of-Canada/blob/master/project-results-images/actual-vs-prediction.png)
   
 
 ## Installation
