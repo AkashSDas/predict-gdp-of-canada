@@ -77,11 +77,11 @@
 
 #### Cross Validation Score
 
-![Cross Validation Score](https://github.com/AkashSDas/Predict-GDP-of-Canada/blob/master/project-results-images/cross-validation-score.png)
+![Cross Validation Score](https://github.com/AkashSDas/Predict-GDP-of-Canada/blob/master/project-results-images/cross-validation-scores.png)
 
 #### Learning Curve
 
-![Learning Curve](https://github.com/AkashSDas/Predict-GDP-of-Canada/blob/master/project-results-images/leraning-curve.png)
+![Learning Curve](https://github.com/AkashSDas/Predict-GDP-of-Canada/blob/master/project-results-images/learning-curve.png)
 
 #### Fitted Line
 
