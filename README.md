@@ -170,7 +170,7 @@ pipenv shell
 
   
 
-- dataset, jupyter notebook and model are in `'Predict-GDP-of-Canada'/requirements.txt/src` folder.
+- dataset, jupyter notebook and model are in `'Predict-GDP-of-Canada'/venv/src` folder.
 
   
 
